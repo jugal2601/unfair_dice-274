@@ -1,0 +1,16 @@
+
+Included files:
+	*Submission:
+		*unfairDice.py
+		*README
+
+Running Instructions:
+
+	below the like "__main__:" line please enter both of the following lines
+	* "biased_rolls(prob_list, s, n)"
+	* "draw_histogram(m, rolls, width)"
+
+Notes and Assumptions:
+
+	I have gone through all the input gaurantees and have made sure my code works the same way.
+	
